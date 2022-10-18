@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+11
+arreglo(10)
+1
+1
+4
+1
+65
+'Programa que pide 10 numero enteros y los muestra a su inversa '
+8
+1
+1
+i
+1
+1
+1
+1
+2
+10
+1
+1
+1
+4
+1
+30
+'Proporcioname el numero ' , i
+5
+1
+10
+arreglo(i)
+10
+4
+1
+30
+'Arreglo impreso a la inversa'
+8
+1
+1
+j
+1
+2
+10
+1
+1
+1
+1
+2
+-1
+4
+1
+32
+'Numero ', j , ': ', arreglo(j) 
+10
+1
